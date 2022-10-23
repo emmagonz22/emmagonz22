@@ -1,10 +1,11 @@
 - Hi, I’m @emmagonz22 Software Engineering Student
-- I’m interested in ... Cyber Security, Machine Learning
-- I’m currently learning ... Data structure
+- I’m interested in ... Full-stack
+- I’m currently learning ... Backend development
 - I’m looking to collaborate on ... open-source projects
-- How to reach me ... Twitter: @3_Emmanuel_3
+- How to reach me ... Linkedin: https://www.linkedin.com/in/emmanuel-gonzalez-morales22/
+- Gitlab ... https://gitlab.com/emmagonz22
 
-Used to code in Python, Java and C/C++
+Used to code in Python, Typescript, JavaScript, Java, HTML5/CSS3 and C/C++
 
 Long live Linux!
 
